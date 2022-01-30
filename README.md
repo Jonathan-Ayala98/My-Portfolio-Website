@@ -1,2 +1,4 @@
 # My-Portfolio-Website
-The code for my website
+This is the code used for my portfolio website, where I display my work and personal life.
+Written primarily in HTML and CSS with a few basic JavaScript elements taken
+to ensure its functionality. Links to many places such as my SoundCloud and my Instagram.
